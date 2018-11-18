@@ -1,0 +1,21 @@
+body {
+    background-color:grey;
+}
+.allCaps{
+    text-transform:uppercase;
+}
+.blogDate {
+    margin-top:-10px;
+    font-family:cursive;
+    letter-spacing:2px;
+}
+#title {
+    font-family:"Arial";
+    text-align:center;
+}
+.blogItem {
+    background-color:pink;
+    padding: 22px;
+    margin-bottom:15px;
+    border-radius:10px;
+}
